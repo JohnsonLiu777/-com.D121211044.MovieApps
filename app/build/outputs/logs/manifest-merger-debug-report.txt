@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Johnson\Documents\Movies-App\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from C:\Users\Johnson\Documents\Movies-App\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from C:\Users\Johnson\Documents\Movies-App\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from C:\Users\Johnson\Documents\Movies-App\app\src\main\AndroidManifest.xml:2:1-31:12
+ADDED from C:\Users\Johnson\-com.D121211044.MovieApps\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\Johnson\-com.D121211044.MovieApps\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\Johnson\-com.D121211044.MovieApps\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\Johnson\-com.D121211044.MovieApps\app\src\main\AndroidManifest.xml:2:1-31:12
 MERGED from [io.coil-kt:coil-compose:2.4.0] C:\Users\Johnson\.gradle\caches\transforms-3\d47c9a57ecfda11e7e5c5dc03e1da834\transformed\coil-compose-2.4.0\AndroidManifest.xml:2:1-7:12
 MERGED from [io.coil-kt:coil-compose-base:2.4.0] C:\Users\Johnson\.gradle\caches\transforms-3\617cfc31fc8d8641c67142dda20ec2d9\transformed\coil-compose-base-2.4.0\AndroidManifest.xml:2:1-7:12
 MERGED from [io.coil-kt:coil:2.4.0] C:\Users\Johnson\.gradle\caches\transforms-3\ebb6a737d77fe2b6f2b49da95c09b494\transformed\coil-2.4.0\AndroidManifest.xml:2:1-7:12
@@ -80,22 +80,22 @@ MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Johnson\.gradle\caches\tra
 MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\Johnson\.gradle\caches\transforms-3\d899bf0196d5c1eaddf5df975da8f198\transformed\exifinterface-1.3.6\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.dagger:dagger-lint-aar:2.48] C:\Users\Johnson\.gradle\caches\transforms-3\150aa7db6c7b8ad7428dfdc2759c25f5\transformed\dagger-lint-aar-2.48\AndroidManifest.xml:16:1-19:12
 	package
-		INJECTED from C:\Users\Johnson\Documents\Movies-App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Johnson\-com.D121211044.MovieApps\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Johnson\Documents\Movies-App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Johnson\-com.D121211044.MovieApps\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from C:\Users\Johnson\Documents\Movies-App\app\src\main\AndroidManifest.xml:3:5-51
+		ADDED from C:\Users\Johnson\-com.D121211044.MovieApps\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from C:\Users\Johnson\Documents\Movies-App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Johnson\-com.D121211044.MovieApps\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Johnson\Documents\Movies-App\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Johnson\-com.D121211044.MovieApps\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Johnson\Documents\Movies-App\app\src\main\AndroidManifest.xml:5:5-66
+ADDED from C:\Users\Johnson\-com.D121211044.MovieApps\app\src\main\AndroidManifest.xml:5:5-66
 	android:name
-		ADDED from C:\Users\Johnson\Documents\Movies-App\app\src\main\AndroidManifest.xml:5:22-64
+		ADDED from C:\Users\Johnson\-com.D121211044.MovieApps\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from C:\Users\Johnson\Documents\Movies-App\app\src\main\AndroidManifest.xml:7:5-29:19
-INJECTED from C:\Users\Johnson\Documents\Movies-App\app\src\main\AndroidManifest.xml:7:5-29:19
+ADDED from C:\Users\Johnson\-com.D121211044.MovieApps\app\src\main\AndroidManifest.xml:7:5-29:19
+INJECTED from C:\Users\Johnson\-com.D121211044.MovieApps\app\src\main\AndroidManifest.xml:7:5-29:19
 MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] C:\Users\Johnson\.gradle\caches\transforms-3\4bcc74ed678dd343dbfde5757e130fb2\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] C:\Users\Johnson\.gradle\caches\transforms-3\4bcc74ed678dd343dbfde5757e130fb2\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\Johnson\.gradle\caches\transforms-3\1121d5bc8984a4225f60137b5b15e7cc\transformed\emoji2-1.4.0\AndroidManifest.xml:23:5-33:19
@@ -115,53 +115,53 @@ MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Johnson\
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Johnson\.gradle\caches\transforms-3\63af53ce5d016587550874d6211ee5f5\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Johnson\.gradle\caches\transforms-3\63af53ce5d016587550874d6211ee5f5\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
 	android:extractNativeLibs
-		INJECTED from C:\Users\Johnson\Documents\Movies-App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Johnson\-com.D121211044.MovieApps\app\src\main\AndroidManifest.xml
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.12.0] C:\Users\Johnson\.gradle\caches\transforms-3\68147d802f7d3386dedde9164574d311\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from C:\Users\Johnson\Documents\Movies-App\app\src\main\AndroidManifest.xml:15:9-35
+		ADDED from C:\Users\Johnson\-com.D121211044.MovieApps\app\src\main\AndroidManifest.xml:15:9-35
 	android:label
-		ADDED from C:\Users\Johnson\Documents\Movies-App\app\src\main\AndroidManifest.xml:13:9-41
+		ADDED from C:\Users\Johnson\-com.D121211044.MovieApps\app\src\main\AndroidManifest.xml:13:9-41
 	android:fullBackupContent
-		ADDED from C:\Users\Johnson\Documents\Movies-App\app\src\main\AndroidManifest.xml:11:9-54
+		ADDED from C:\Users\Johnson\-com.D121211044.MovieApps\app\src\main\AndroidManifest.xml:11:9-54
 	android:roundIcon
-		ADDED from C:\Users\Johnson\Documents\Movies-App\app\src\main\AndroidManifest.xml:14:9-54
+		ADDED from C:\Users\Johnson\-com.D121211044.MovieApps\app\src\main\AndroidManifest.xml:14:9-54
 	tools:targetApi
-		ADDED from C:\Users\Johnson\Documents\Movies-App\app\src\main\AndroidManifest.xml:17:9-29
+		ADDED from C:\Users\Johnson\-com.D121211044.MovieApps\app\src\main\AndroidManifest.xml:17:9-29
 	android:icon
-		ADDED from C:\Users\Johnson\Documents\Movies-App\app\src\main\AndroidManifest.xml:12:9-43
+		ADDED from C:\Users\Johnson\-com.D121211044.MovieApps\app\src\main\AndroidManifest.xml:12:9-43
 	android:allowBackup
-		ADDED from C:\Users\Johnson\Documents\Movies-App\app\src\main\AndroidManifest.xml:9:9-35
+		ADDED from C:\Users\Johnson\-com.D121211044.MovieApps\app\src\main\AndroidManifest.xml:9:9-35
 	android:theme
-		ADDED from C:\Users\Johnson\Documents\Movies-App\app\src\main\AndroidManifest.xml:16:9-47
+		ADDED from C:\Users\Johnson\-com.D121211044.MovieApps\app\src\main\AndroidManifest.xml:16:9-47
 	android:dataExtractionRules
-		ADDED from C:\Users\Johnson\Documents\Movies-App\app\src\main\AndroidManifest.xml:10:9-65
+		ADDED from C:\Users\Johnson\-com.D121211044.MovieApps\app\src\main\AndroidManifest.xml:10:9-65
 	android:name
-		ADDED from C:\Users\Johnson\Documents\Movies-App\app\src\main\AndroidManifest.xml:8:9-28
+		ADDED from C:\Users\Johnson\-com.D121211044.MovieApps\app\src\main\AndroidManifest.xml:8:9-28
 activity#com.Tugas.moviesapp.core.presentation.MainActivity
-ADDED from C:\Users\Johnson\Documents\Movies-App\app\src\main\AndroidManifest.xml:18:9-28:20
+ADDED from C:\Users\Johnson\-com.D121211044.MovieApps\app\src\main\AndroidManifest.xml:18:9-28:20
 	android:label
-		ADDED from C:\Users\Johnson\Documents\Movies-App\app\src\main\AndroidManifest.xml:21:13-45
+		ADDED from C:\Users\Johnson\-com.D121211044.MovieApps\app\src\main\AndroidManifest.xml:21:13-45
 	android:exported
-		ADDED from C:\Users\Johnson\Documents\Movies-App\app\src\main\AndroidManifest.xml:20:13-36
+		ADDED from C:\Users\Johnson\-com.D121211044.MovieApps\app\src\main\AndroidManifest.xml:20:13-36
 	android:theme
-		ADDED from C:\Users\Johnson\Documents\Movies-App\app\src\main\AndroidManifest.xml:22:13-51
+		ADDED from C:\Users\Johnson\-com.D121211044.MovieApps\app\src\main\AndroidManifest.xml:22:13-51
 	android:name
-		ADDED from C:\Users\Johnson\Documents\Movies-App\app\src\main\AndroidManifest.xml:19:13-59
+		ADDED from C:\Users\Johnson\-com.D121211044.MovieApps\app\src\main\AndroidManifest.xml:19:13-59
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Johnson\Documents\Movies-App\app\src\main\AndroidManifest.xml:23:13-27:29
+ADDED from C:\Users\Johnson\-com.D121211044.MovieApps\app\src\main\AndroidManifest.xml:23:13-27:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Johnson\Documents\Movies-App\app\src\main\AndroidManifest.xml:24:17-69
+ADDED from C:\Users\Johnson\-com.D121211044.MovieApps\app\src\main\AndroidManifest.xml:24:17-69
 	android:name
-		ADDED from C:\Users\Johnson\Documents\Movies-App\app\src\main\AndroidManifest.xml:24:25-66
+		ADDED from C:\Users\Johnson\-com.D121211044.MovieApps\app\src\main\AndroidManifest.xml:24:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Johnson\Documents\Movies-App\app\src\main\AndroidManifest.xml:26:17-77
+ADDED from C:\Users\Johnson\-com.D121211044.MovieApps\app\src\main\AndroidManifest.xml:26:17-77
 	android:name
-		ADDED from C:\Users\Johnson\Documents\Movies-App\app\src\main\AndroidManifest.xml:26:27-74
+		ADDED from C:\Users\Johnson\-com.D121211044.MovieApps\app\src\main\AndroidManifest.xml:26:27-74
 uses-sdk
-INJECTED from C:\Users\Johnson\Documents\Movies-App\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\Johnson\Documents\Movies-App\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Johnson\Documents\Movies-App\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Johnson\-com.D121211044.MovieApps\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Johnson\-com.D121211044.MovieApps\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Johnson\-com.D121211044.MovieApps\app\src\main\AndroidManifest.xml
 MERGED from [io.coil-kt:coil-compose:2.4.0] C:\Users\Johnson\.gradle\caches\transforms-3\d47c9a57ecfda11e7e5c5dc03e1da834\transformed\coil-compose-2.4.0\AndroidManifest.xml:5:5-44
 MERGED from [io.coil-kt:coil-compose:2.4.0] C:\Users\Johnson\.gradle\caches\transforms-3\d47c9a57ecfda11e7e5c5dc03e1da834\transformed\coil-compose-2.4.0\AndroidManifest.xml:5:5-44
 MERGED from [io.coil-kt:coil-compose-base:2.4.0] C:\Users\Johnson\.gradle\caches\transforms-3\617cfc31fc8d8641c67142dda20ec2d9\transformed\coil-compose-base-2.4.0\AndroidManifest.xml:5:5-44
@@ -313,11 +313,11 @@ MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\Johnson\.gradl
 MERGED from [com.google.dagger:dagger-lint-aar:2.48] C:\Users\Johnson\.gradle\caches\transforms-3\150aa7db6c7b8ad7428dfdc2759c25f5\transformed\dagger-lint-aar-2.48\AndroidManifest.xml:18:3-42
 MERGED from [com.google.dagger:dagger-lint-aar:2.48] C:\Users\Johnson\.gradle\caches\transforms-3\150aa7db6c7b8ad7428dfdc2759c25f5\transformed\dagger-lint-aar-2.48\AndroidManifest.xml:18:3-42
 	android:targetSdkVersion
-		INJECTED from C:\Users\Johnson\Documents\Movies-App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Johnson\-com.D121211044.MovieApps\app\src\main\AndroidManifest.xml
 	tools:ignore
 		ADDED from [com.google.accompanist:accompanist-drawablepainter:0.30.1] C:\Users\Johnson\.gradle\caches\transforms-3\2311966724d6b173f2ede2d470b2de91\transformed\accompanist-drawablepainter-0.30.1\AndroidManifest.xml:23:9-39
 	android:minSdkVersion
-		INJECTED from C:\Users\Johnson\Documents\Movies-App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Johnson\-com.D121211044.MovieApps\app\src\main\AndroidManifest.xml
 activity#androidx.compose.ui.tooling.PreviewActivity
 ADDED from [androidx.compose.ui:ui-tooling-android:1.5.4] C:\Users\Johnson\.gradle\caches\transforms-3\4bcc74ed678dd343dbfde5757e130fb2\transformed\ui-tooling-release\AndroidManifest.xml:23:9-25:39
 	android:exported

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.Tugas.moviesapp-mergeDebugResources-60:/values-lv/values-lv.xml",
+            "outputFile": "com.Tugas.moviesapp-mergeDebugResources-2:/values-lv/values-lv.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Johnson\\.gradle\\caches\\transforms-3\\af52ca3aa6d9bcd6e8205d9c3a0574f9\\transformed\\ui-release\\res\\values-lv\\values-lv.xml",

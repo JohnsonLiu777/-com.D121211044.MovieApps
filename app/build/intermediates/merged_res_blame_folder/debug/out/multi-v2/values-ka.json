@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.Tugas.moviesapp-mergeDebugResources-60:/values-ka/values-ka.xml",
+            "outputFile": "com.Tugas.moviesapp-mergeDebugResources-2:/values-ka/values-ka.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Johnson\\.gradle\\caches\\transforms-3\\677b9b3dc4d6551fb646d3612666a56a\\transformed\\material3-1.0.0\\res\\values-ka\\values-ka.xml",
